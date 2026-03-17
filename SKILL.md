@@ -1,7 +1,6 @@
 ---
 name: implement
 description: Use when implementing a single task from a plan. Defines the TDD implementation loop — write tests, implement, validate tests, audit code, repeat if necessary. Each dispatched subagent follows this workflow. Triggers on task execution within a dispatching-programmers context.
-disable-model-invocation: true
 ---
 
 # Implement
